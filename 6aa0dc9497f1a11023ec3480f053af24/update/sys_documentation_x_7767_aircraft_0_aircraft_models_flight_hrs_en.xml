@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="flight_hrs" label="Flight hrs" language="en" table="x_7767_aircraft_0_aircraft_models">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>flight_hrs</element>
+            <help/>
+            <hint/>
+            <label>Flight hrs</label>
+            <language>en</language>
+            <name>x_7767_aircraft_0_aircraft_models</name>
+            <plural>Flight hrs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 08:02:24</sys_created_on>
+            <sys_id>364450dc97f1a11023ec3480f053afc0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Flight hrs</sys_name>
+            <sys_package display_value="AirCraft Maintenance" source="x_7767_aircraft_0">6aa0dc9497f1a11023ec3480f053af24</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AirCraft Maintenance">6aa0dc9497f1a11023ec3480f053af24</sys_scope>
+            <sys_update_name>sys_documentation_x_7767_aircraft_0_aircraft_models_flight_hrs_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 08:02:24</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

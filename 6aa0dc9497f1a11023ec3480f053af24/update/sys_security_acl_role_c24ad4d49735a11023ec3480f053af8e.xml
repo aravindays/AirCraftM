@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 08:28:33</sys_created_on>
+        <sys_id>c24ad4d49735a11023ec3480f053af8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_7767_aircraft_0_air_m_req.x_7767_aircraft_0.admin</sys_name>
+        <sys_package display_value="AirCraft Maintenance" source="x_7767_aircraft_0">6aa0dc9497f1a11023ec3480f053af24</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AirCraft Maintenance">6aa0dc9497f1a11023ec3480f053af24</sys_scope>
+        <sys_security_acl display_value="x_7767_aircraft_0_air_m_req">4e4ad4d49735a11023ec3480f053af8a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c24ad4d49735a11023ec3480f053af8e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 08:28:33</sys_updated_on>
+        <sys_user_role display_value="x_7767_aircraft_0.admin" name="x_7767_aircraft_0.admin">62a0509897f1a11023ec3480f053af9a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
