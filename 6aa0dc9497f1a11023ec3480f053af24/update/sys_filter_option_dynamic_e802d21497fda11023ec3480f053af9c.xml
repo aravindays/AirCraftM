@@ -5,6 +5,7 @@
         <available_for_filter>true</available_for_filter>
         <available_for_ref_qual>true</available_for_ref_qual>
         <field_type/>
+        <filter_by_schedule/>
         <label>Aircraft Filter</label>
         <order/>
         <roles/>

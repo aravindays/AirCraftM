@@ -13,7 +13,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>Mtype</column_label>
         <comments/>
         <create_roles/>
         <default_value/>

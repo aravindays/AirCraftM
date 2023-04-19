@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2023-04-19 05:52:37">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 16:53:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a3ed065c97bda11023ec3480f053afb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Aircraft Maintainanc - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AirCraft Maintenance" source="x_7767_aircraft_0">6aa0dc9497f1a11023ec3480f053af24</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AirCraft Maintenance">6aa0dc9497f1a11023ec3480f053af24</sys_scope>
+        <sys_update_name>sys_portal_page_a3ed065c97bda11023ec3480f053afb5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 16:53:50</sys_updated_on>
+        <title>PA Aircraft Maintainanc - New Tab</title>
+        <user/>
+        <view>pa_aircraft_maintainanc_-_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Aircraft Maintainanc - New Tab">a3ed065c97bda11023ec3480f053afb5</page>
+                <summary>Aircraft Maintainance Tasks by Group</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2023-03-21 16:54:09</sys_created_on>
+                <sys_id>480e829c97bda11023ec3480f053afa8</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2023-03-21 16:54:09</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-03-21 09:54:09">480e829c97bda11023ec3480f053afa8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-03-21 16:54:09</sys_created_on>
+                        <sys_id>000e829c97bda11023ec3480f053afa9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-03-21 16:54:09</sys_updated_on>
+                        <value>649d0a1c97bda11023ec3480f053af8e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2023-03-21 09:54:09">480e829c97bda11023ec3480f053afa8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-03-21 16:54:09</sys_created_on>
+                        <sys_id>040e829c97bda11023ec3480f053afaa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-03-21 16:54:09</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2023-03-21 09:54:09">480e829c97bda11023ec3480f053afa8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-03-21 16:54:09</sys_created_on>
+                        <sys_id>400e829c97bda11023ec3480f053afaa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-03-21 16:54:09</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2023-03-21 09:54:09">480e829c97bda11023ec3480f053afa8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-03-21 16:54:09</sys_created_on>
+                        <sys_id>8c0e829c97bda11023ec3480f053afa9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-03-21 16:54:09</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-03-21 09:54:09">480e829c97bda11023ec3480f053afa8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-03-21 16:54:09</sys_created_on>
+                        <sys_id>c40e829c97bda11023ec3480f053afaa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-03-21 16:54:09</sys_updated_on>
+                        <value>Aircraft Maintainance Tasks by Group</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-03-21 09:54:09">480e829c97bda11023ec3480f053afa8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-03-21 16:54:09</sys_created_on>
+                        <sys_id>c80e829c97bda11023ec3480f053afa9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-03-21 16:54:09</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Aircraft Maintainanc - New Tab">a3ed065c97bda11023ec3480f053afb5</page>
+                <summary>Aircraft Maintainance Open Tasks By Aircraft model</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2023-03-21 16:54:30</sys_created_on>
+                <sys_id>551ece5c97bda11023ec3480f053af3c</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2023-03-21 16:54:30</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-03-21 09:54:30">551ece5c97bda11023ec3480f053af3c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-03-21 16:54:30</sys_created_on>
+                        <sys_id>191ece5c97bda11023ec3480f053af3d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-03-21 16:54:30</sys_updated_on>
+                        <value>Aircraft Maintainance Open Tasks By Aircraft model</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-03-21 09:54:30">551ece5c97bda11023ec3480f053af3c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-03-21 16:54:30</sys_created_on>
+                        <sys_id>1d1ece5c97bda11023ec3480f053af3c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-03-21 16:54:30</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2023-03-21 09:54:30">551ece5c97bda11023ec3480f053af3c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-03-21 16:54:30</sys_created_on>
+                        <sys_id>551ece5c97bda11023ec3480f053af3d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-03-21 16:54:30</sys_updated_on>
+                        <value>donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2023-03-21 09:54:30">551ece5c97bda11023ec3480f053af3c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-03-21 16:54:30</sys_created_on>
+                        <sys_id>911ece5c97bda11023ec3480f053af3d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-03-21 16:54:30</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-03-21 09:54:30">551ece5c97bda11023ec3480f053af3c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-03-21 16:54:30</sys_created_on>
+                        <sys_id>d51ece5c97bda11023ec3480f053af3c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-03-21 16:54:30</sys_updated_on>
+                        <value>516cc69897bda11023ec3480f053af7d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2023-03-21 09:54:30">551ece5c97bda11023ec3480f053af3c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-03-21 16:54:30</sys_created_on>
+                        <sys_id>dd1ece5c97bda11023ec3480f053af3c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-03-21 16:54:30</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Aircraft Maintainanc - New Tab">a3ed065c97bda11023ec3480f053afb5</page>
+                <summary>Aircraft Maintainance Open Tasks By State</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2023-03-21 16:54:20</sys_created_on>
+                <sys_id>f20e469c97bda11023ec3480f053af27</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2023-03-21 16:54:20</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2023-03-21 09:54:20">f20e469c97bda11023ec3480f053af27</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-03-21 16:54:20</sys_created_on>
+                        <sys_id>320e469c97bda11023ec3480f053af28</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-03-21 16:54:20</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-03-21 09:54:20">f20e469c97bda11023ec3480f053af27</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-03-21 16:54:20</sys_created_on>
+                        <sys_id>760e469c97bda11023ec3480f053af27</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-03-21 16:54:20</sys_updated_on>
+                        <value>389cc69897bda11023ec3480f053afaf</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2023-03-21 09:54:20">f20e469c97bda11023ec3480f053af27</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-03-21 16:54:20</sys_created_on>
+                        <sys_id>7e0e469c97bda11023ec3480f053af27</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-03-21 16:54:20</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-03-21 09:54:20">f20e469c97bda11023ec3480f053af27</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-03-21 16:54:20</sys_created_on>
+                        <sys_id>b60e469c97bda11023ec3480f053af28</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-03-21 16:54:20</sys_updated_on>
+                        <value>Aircraft Maintainance Open Tasks By State</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-03-21 09:54:20">f20e469c97bda11023ec3480f053af27</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-03-21 16:54:20</sys_created_on>
+                        <sys_id>ba0e469c97bda11023ec3480f053af27</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-03-21 16:54:20</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2023-03-21 09:54:20">f20e469c97bda11023ec3480f053af27</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-03-21 16:54:20</sys_created_on>
+                        <sys_id>f20e469c97bda11023ec3480f053af28</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-03-21 16:54:20</sys_updated_on>
+                        <value>pie</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
