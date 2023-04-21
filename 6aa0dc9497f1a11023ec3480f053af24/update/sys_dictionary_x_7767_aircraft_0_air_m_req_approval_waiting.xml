@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-03-21 14:42:37</sys_created_on>
-        <sys_id>55efa510973da11023ec3480f053afa9</sys_id>
         <sys_name>Approval waiting</sys_name>
         <sys_package display_value="AirCraft Maintenance" source="x_7767_aircraft_0">6aa0dc9497f1a11023ec3480f053af24</sys_package>
         <sys_policy/>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b94410dc97f1a11023ec3480f053afc8" label="AirCraft Models" max_length="40" name="x_7767_aircraft_0_aircraft_models" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Aircraft Model" max_length="40" name="aircraft_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Aircraft Type" max_length="40" name="aircraft_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Engine Manufacturer" max_length="40" name="engine_manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Engine Model" max_length="40" name="engine_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Engine Type" max_length="40" name="engine_type" type="string"/>
+        <element label="Flight hrs" max_length="40" name="flight_hrs" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Maintenance Date" max_length="40" name="last_maintenance_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Manufacturer" max_length="40" name="manufacturer" type="string"/>
+        <element label="Manufacture Year" max_length="40" name="manufacture_year" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

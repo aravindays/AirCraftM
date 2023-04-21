@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_risk_advanced_rating_criteria">
+    <sn_risk_advanced_rating_criteria action="INSERT_OR_UPDATE">
+        <assessment_type display_value="Inherent Assessment">370157d20f321010878cddcd58767e74</assessment_type>
+        <background_color>Yellow</background_color>
+        <concat_rating_overridden_score>Medium (Score: 4)</concat_rating_overridden_score>
+        <lower_interval>4</lower_interval>
+        <overridden_score>4</overridden_score>
+        <rating>Medium</rating>
+        <risk_appetite_scale/>
+        <risk_color_style display_value="">654d2dd0532300100b39ddeeff7b124d</risk_color_style>
+        <sys_class_name>sn_risk_advanced_rating_criteria</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-21 00:00:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ef5fc2429752211023ec3480f053afe8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Medium (Score: 4)</sys_name>
+        <sys_package display_value="AirCraft Maintenance" source="x_7767_aircraft_0">6aa0dc9497f1a11023ec3480f053af24</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AirCraft Maintenance">6aa0dc9497f1a11023ec3480f053af24</sys_scope>
+        <sys_update_name>sn_risk_advanced_rating_criteria_ef5fc2429752211023ec3480f053afe8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-21 00:00:52</sys_updated_on>
+        <text_color>#000000</text_color>
+    </sn_risk_advanced_rating_criteria>
+</record_update>

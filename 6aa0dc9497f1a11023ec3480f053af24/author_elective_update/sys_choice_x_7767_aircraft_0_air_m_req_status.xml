@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-03-21 09:41:27</sys_created_on>
-            <sys_id>31faa89c9775a11023ec3480f053afb1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>status</sys_name>
             <sys_package display_value="AirCraft Maintenance" source="x_7767_aircraft_0">6aa0dc9497f1a11023ec3480f053af24</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2023-03-21 09:41:27</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f9faa89c9775a11023ec3480f053afb0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-03-21 09:41:27</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2023-03-21 09:41:27</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>75faa89c9775a11023ec3480f053afb2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-03-21 09:41:27</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2023-03-21 09:41:27</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f1faa89c9775a11023ec3480f053afb3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-03-21 09:41:27</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2023-03-21 09:41:27</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>71faa89c9775a11023ec3480f053afb4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-03-21 09:41:27</sys_updated_on>
@@ -110,7 +105,6 @@
             <sys_created_on>2023-03-21 09:41:28</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>fdfaa89c9775a11023ec3480f053afb4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-03-21 09:41:28</sys_updated_on>
@@ -130,7 +124,6 @@
             <sys_created_on>2023-03-21 09:41:28</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7dfaa89c9775a11023ec3480f053afb5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-03-21 09:41:28</sys_updated_on>
