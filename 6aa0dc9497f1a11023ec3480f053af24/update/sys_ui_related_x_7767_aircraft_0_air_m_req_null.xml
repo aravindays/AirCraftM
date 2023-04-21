@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_7767_aircraft_0_air_m_req" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="AirCraft Maintenance Request - Default view" name="x_7767_aircraft_0_air_m_req" related_list="NULL" sys_domain="global" view="Default view">79d27514973da11023ec3480f053af20</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>REL:8b807550973da11023ec3480f053af6e</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 14:55:28</sys_created_on>
+            <sys_id>b5d27514973da11023ec3480f053af21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 14:55:28</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="AirCraft Maintenance Request - Default view" name="x_7767_aircraft_0_air_m_req" related_list="NULL" sys_domain="global" view="Default view">79d27514973da11023ec3480f053af20</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>REL:946231d0973da11023ec3480f053af21</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 14:55:28</sys_created_on>
+            <sys_id>b9d27514973da11023ec3480f053af21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 14:55:28</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>AirCraft Maintenance Request - Default view</calculated_name>
+            <filter/>
+            <name>x_7767_aircraft_0_air_m_req</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 14:55:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79d27514973da11023ec3480f053af20</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>AirCraft Maintenance Request - Default view</sys_name>
+            <sys_package display_value="AirCraft Maintenance" source="x_7767_aircraft_0">6aa0dc9497f1a11023ec3480f053af24</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AirCraft Maintenance">6aa0dc9497f1a11023ec3480f053af24</sys_scope>
+            <sys_update_name>sys_ui_related_x_7767_aircraft_0_air_m_req_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 14:55:28</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

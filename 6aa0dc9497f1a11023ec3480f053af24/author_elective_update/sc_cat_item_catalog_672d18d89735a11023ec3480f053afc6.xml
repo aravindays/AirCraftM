@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Request for Aircraft Maintenance ">6c1b18189735a11023ec3480f053afef</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 08:41:14</sys_created_on>
+        <sys_id>672d18d89735a11023ec3480f053afc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request for Aircraft Maintenance </sys_name>
+        <sys_package display_value="AirCraft Maintenance" source="x_7767_aircraft_0">6aa0dc9497f1a11023ec3480f053af24</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AirCraft Maintenance">6aa0dc9497f1a11023ec3480f053af24</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_672d18d89735a11023ec3480f053afc6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 08:41:14</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AirCraft Maintenance">6aa0dc9497f1a11023ec3480f053af24</application>
+        <file_path/>
+        <instance_id>0ee26a1edb8a3b4852cec59705961993</instance_id>
+        <instance_name>dev87926</instance_name>
+        <name>sc_cat_item_catalog_672d18d89735a11023ec3480f053afc6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request for Aircraft Maintenance ">6c1b18189735a11023ec3480f053afef</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-21 08:41:14</sys_created_on><sys_id>672d18d89735a11023ec3480f053afc6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Request for Aircraft Maintenance </sys_name><sys_package display_value="AirCraft Maintenance" source="x_7767_aircraft_0">6aa0dc9497f1a11023ec3480f053af24</sys_package><sys_policy/><sys_scope display_value="AirCraft Maintenance">6aa0dc9497f1a11023ec3480f053af24</sys_scope><sys_update_name>sc_cat_item_catalog_672d18d89735a11023ec3480f053afc6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-21 08:41:14</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-2073249388</payload_hash>
+        <record_name>Service Catalog.Request for Aircraft Maintenance </record_name>
+        <reverted_from/>
+        <source>e2a0dc9497f1a11023ec3480f053af27</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 08:41:14</sys_created_on>
+        <sys_id>672d18d89735a11023ec3480f053afc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187035461520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 08:41:14</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>a72d18d8fe35a11047fa729248f6dac8</update_guid>
+        <update_guid_history>a72d18d8fe35a11047fa729248f6dac8:-2073249388</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Request for Aircraft Maintenance ">4f2e9c1c9735a11023ec3480f053aff1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 08:45:33</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>06db4289fb8f4c2c8d391d6ecb352b44</sys_id>
+        <sys_metadata>672d18d89735a11023ec3480f053afc6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request for Aircraft Maintenance </sys_name>
+        <sys_package display_value="AirCraft Maintenance" source="x_7767_aircraft_0">6aa0dc9497f1a11023ec3480f053af24</sys_package>
+        <sys_parent display_value="Request for Aircraft Maintenance ">6c1b18189735a11023ec3480f053afef</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="AirCraft Maintenance">6aa0dc9497f1a11023ec3480f053af24</sys_scope>
+        <sys_scope_delete display_value="">1949f1f67cef429c82a40e40cf3b8b39</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_672d18d89735a11023ec3480f053afc6</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_672d18d89735a11023ec3480f053afc6">672d18d89735a11023ec3480f053afc9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 08:45:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

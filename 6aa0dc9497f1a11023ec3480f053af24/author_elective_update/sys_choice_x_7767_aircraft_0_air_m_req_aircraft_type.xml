@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="aircraft_type" table="x_7767_aircraft_0_air_m_req" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>aircraft_type</element>
+            <name>x_7767_aircraft_0_air_m_req</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 08:28:30</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>aircraft_type</sys_name>
+            <sys_package display_value="AirCraft Maintenance" source="x_7767_aircraft_0">6aa0dc9497f1a11023ec3480f053af24</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AirCraft Maintenance">6aa0dc9497f1a11023ec3480f053af24</sys_scope>
+            <sys_update_name>sys_choice_x_7767_aircraft_0_air_m_req_aircraft_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 08:28:30</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>aircraft_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fixed-Wing</label>
+            <language>en</language>
+            <name>x_7767_aircraft_0_air_m_req</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 08:28:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 08:28:30</sys_updated_on>
+            <value>fixed_wing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>aircraft_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rotary-Wing</label>
+            <language>en</language>
+            <name>x_7767_aircraft_0_air_m_req</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 08:28:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 08:28:30</sys_updated_on>
+            <value>rotary_wing</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

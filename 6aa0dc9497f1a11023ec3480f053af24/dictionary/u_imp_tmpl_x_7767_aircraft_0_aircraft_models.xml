@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="183521dc97b9a11023ec3480f053aff3" extends="sys_import_set_row" label="Imp Tmpl X 7767 Aircraft 0 Aircraft Models" max_length="40" name="u_imp_tmpl_x_7767_aircraft_0_aircraft_models" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Aircraft Model" label="Aircraft Model" max_length="40" name="u_aircraft_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Aircraft Type" label="Aircraft Type" max_length="40" name="u_aircraft_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Engine Manufacturer" label="Engine Manufacturer" max_length="40" name="u_engine_manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Engine Model" label="Engine Model" max_length="40" name="u_engine_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Engine Type" label="Engine Type" max_length="40" name="u_engine_type" type="string"/>
+        <element attributes="import_attribute_name=Flight hrs" label="Flight hrs" max_length="40" name="u_flight_hrs" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Last Maintenance Date" label="Last Maintenance Date" max_length="40" name="u_last_maintenance_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacturer" label="Manufacturer" max_length="40" name="u_manufacturer" type="string"/>
+        <element attributes="import_attribute_name=Manufacture Year" label="Manufacture Year" max_length="40" name="u_manufacture_year" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_7767_aircraft_0_aircraft_models" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_7767_aircraft_0_aircraft_models" element="NULL" name="x_7767_aircraft_0_aircraft_models" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">62679c509735a11023ec3480f053af10</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 08:16:02</sys_created_on>
+            <sys_id>ea6798d09735a11023ec3480f053af26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 08:16:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>aircraft_model</element>
+            <list_id display_value="x_7767_aircraft_0_aircraft_models" element="NULL" name="x_7767_aircraft_0_aircraft_models" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">62679c509735a11023ec3480f053af10</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 08:16:02</sys_created_on>
+            <sys_id>a26798d09735a11023ec3480f053af27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 08:16:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>aircraft_type</element>
+            <list_id display_value="x_7767_aircraft_0_aircraft_models" element="NULL" name="x_7767_aircraft_0_aircraft_models" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">62679c509735a11023ec3480f053af10</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 08:16:02</sys_created_on>
+            <sys_id>266798d09735a11023ec3480f053af27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 08:16:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>engine_manufacturer</element>
+            <list_id display_value="x_7767_aircraft_0_aircraft_models" element="NULL" name="x_7767_aircraft_0_aircraft_models" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">62679c509735a11023ec3480f053af10</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 08:16:02</sys_created_on>
+            <sys_id>a66798d09735a11023ec3480f053af27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 08:16:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>engine_model</element>
+            <list_id display_value="x_7767_aircraft_0_aircraft_models" element="NULL" name="x_7767_aircraft_0_aircraft_models" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">62679c509735a11023ec3480f053af10</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 08:16:02</sys_created_on>
+            <sys_id>2a6798d09735a11023ec3480f053af27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 08:16:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>engine_type</element>
+            <list_id display_value="x_7767_aircraft_0_aircraft_models" element="NULL" name="x_7767_aircraft_0_aircraft_models" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">62679c509735a11023ec3480f053af10</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 08:16:02</sys_created_on>
+            <sys_id>aa6798d09735a11023ec3480f053af27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 08:16:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>flight_hrs</element>
+            <list_id display_value="x_7767_aircraft_0_aircraft_models" element="NULL" name="x_7767_aircraft_0_aircraft_models" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">62679c509735a11023ec3480f053af10</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 08:16:02</sys_created_on>
+            <sys_id>2e6798d09735a11023ec3480f053af27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 08:16:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>last_maintenance_date</element>
+            <list_id display_value="x_7767_aircraft_0_aircraft_models" element="NULL" name="x_7767_aircraft_0_aircraft_models" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">62679c509735a11023ec3480f053af10</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 08:16:02</sys_created_on>
+            <sys_id>ae6798d09735a11023ec3480f053af27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 08:16:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>manufacture_year</element>
+            <list_id display_value="x_7767_aircraft_0_aircraft_models" element="NULL" name="x_7767_aircraft_0_aircraft_models" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">62679c509735a11023ec3480f053af10</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 08:16:02</sys_created_on>
+            <sys_id>226798d09735a11023ec3480f053af28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 08:16:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>manufacturer</element>
+            <list_id display_value="x_7767_aircraft_0_aircraft_models" element="NULL" name="x_7767_aircraft_0_aircraft_models" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">62679c509735a11023ec3480f053af10</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 08:16:02</sys_created_on>
+            <sys_id>a26798d09735a11023ec3480f053af28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 08:16:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_7767_aircraft_0_aircraft_models</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 08:16:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>62679c509735a11023ec3480f053af10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_7767_aircraft_0_aircraft_models</sys_name>
+            <sys_package display_value="AirCraft Maintenance" source="x_7767_aircraft_0">6aa0dc9497f1a11023ec3480f053af24</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AirCraft Maintenance">6aa0dc9497f1a11023ec3480f053af24</sys_scope>
+            <sys_update_name>sys_ui_list_x_7767_aircraft_0_aircraft_models_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 08:16:02</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

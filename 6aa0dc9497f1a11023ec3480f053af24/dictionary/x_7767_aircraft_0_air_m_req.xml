@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="404a14d49735a11023ec3480f053afa1" label="AirCraft Maintenance Request" max_length="40" name="x_7767_aircraft_0_air_m_req" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Additional information" max_length="400" name="additional_information" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Aircraft type" mandatory="true" max_length="40" name="aircraft_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Fixed-Wing" value="fixed_wing"/>
+                <element inactive_on_update="false" label="Rotary-Wing" value="rotary_wing"/>
+            </choice>
+        </element>
+        <element label="Approval group" max_length="32" name="approval_group" reference="sys_user_group" type="reference"/>
+        <element choice="1" label="Approval waiting" max_length="40" name="approval_waiting" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Maintenance manager" sequence="0" value="maintenance_manager"/>
+                <element inactive_on_update="false" label="QC signoff" sequence="1" value="qc_signoff"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Engine Manufacturer" max_length="40" name="engine_manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Engine Model" max_length="40" name="engine_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Engine Type" max_length="40" name="engine_type" type="string"/>
+        <element label="Flight hrs" max_length="40" name="flight_hrs" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Maintenance Date" max_length="40" name="last_maintenance_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Maintenance Locations" max_length="40" name="maintenance_locations" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Amsterdam, Netherlands" value="amsterdam"/>
+                <element inactive_on_update="false" label="Bankstown, Australia" value="bankstown_australia"/>
+                <element inactive_on_update="false" label="Basel, Switzerland" value="basel_switzerland"/>
+                <element inactive_on_update="false" label="Brisbane, Australia" value="brisbane_australia"/>
+                <element inactive_on_update="false" label="Singapore" value="singapore"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="maintenance type" max_length="40" name="maintenance_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Daily Check" sequence="0" value="daily_check"/>
+                <element inactive_on_update="false" label="Line Maintenance" sequence="1" value="line_maintenance"/>
+                <element inactive_on_update="false" label="Base Maintenance" sequence="2" value="base_maintenance"/>
+                <element inactive_on_update="false" label="Overhaul Maintenance" sequence="3" value="overhaul_maintenance"/>
+                <element inactive_on_update="false" label="Periodic Maintenance" sequence="4" value="periodic_maintenance"/>
+                <element inactive_on_update="false" label="Pre-Flight Inspection" sequence="5" value="pre_flight_inspection"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Manufacturer" max_length="40" name="manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Manufacture Year" max_length="40" name="manufacture_year" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="encode_utf8=false" label="Requester" max_length="32" name="requester" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Req Date" max_length="40" name="req_date" type="glide_date"/>
+        <element attributes="encode_utf8=false" label="AirCraft" max_length="32" name="select_aircraft" reference="x_7767_aircraft_0_aircraft_models" type="reference"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
+                <element inactive_on_update="false" label="Planned" sequence="1" value="planned"/>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="in_progress"/>
+                <element inactive_on_update="false" label="Quality check" sequence="3" value="quality_check"/>
+                <element inactive_on_update="false" label="Completed" sequence="4" value="completed"/>
+                <element inactive_on_update="false" label="Canceled" sequence="5" value="canceled"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Urgency" max_length="40" name="urgency" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="High" value="high"/>
+                <element inactive_on_update="false" label="Low" value="low"/>
+                <element inactive_on_update="false" label="Medium" value="medium"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="approval_group"/>
+        </index>
+        <index name="index2">
+            <element name="requester"/>
+        </index>
+        <index name="index3">
+            <element name="select_aircraft"/>
+        </index>
+    </element>
+</database>
